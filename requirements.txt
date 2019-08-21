@@ -1,0 +1,5 @@
+pyserial 
+bluepy 
+python-chess==0.25
+flask
+flask_sockets
